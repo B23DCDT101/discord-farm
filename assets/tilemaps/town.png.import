@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dx06ttrxl641j"
-path="res://.godot/imported/spring farm tilemap.png-e2c4428cde43a6a25a7e33cdcb4e908d.ctex"
+uid="uid://mpee05vasd6y"
+path="res://.godot/imported/town.png-c00119b62249f85b10d1c2802a1aa545.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilemaps/spring farm tilemap.png"
-dest_files=["res://.godot/imported/spring farm tilemap.png-e2c4428cde43a6a25a7e33cdcb4e908d.ctex"]
+source_file="res://assets/tilemaps/town.png"
+dest_files=["res://.godot/imported/town.png-c00119b62249f85b10d1c2802a1aa545.ctex"]
 
 [params]
 

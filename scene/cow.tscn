@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://cjiyyokpxsw8j"]
 
-[ext_resource type="Script" uid="uid://b7h8liar2vo7s" path="res://scene/cow.gd" id="1_ivh24"]
+[ext_resource type="Script" uid="uid://b7h8liar2vo7s" path="res://script/cow.gd" id="1_ivh24"]
 [ext_resource type="Texture2D" uid="uid://cfobu37dirtjo" path="res://assets/Animal/PC _ Computer - Stardew Valley - Animals - Cow (White).png" id="1_nuh3y"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yj05v"]
